@@ -1,4 +1,4 @@
-# React JS HR Management System - HR Core
+# React JS HR Management System
 
 HR Management system app to manage your company employees.
 
